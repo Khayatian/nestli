@@ -24,3 +24,7 @@ The model is calibrated on measurements that are collected at 1-minute intervals
 
 ## Usage
 A simple example of how to use the package is given in the **example** folder. Just run the file dtpy_example_run.py where the config example_config.yml specifies all the parameters.
+
+## Contact
+Fazel Khayatian, Urban Energy Systems Laboratory, Empa.
+https://www.empa.ch/web/khfa
