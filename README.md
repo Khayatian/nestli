@@ -1,5 +1,5 @@
 # nestli
-*nestli* is the little sister of the NEST demonstrator at Empa. It is a co-simulation environment for benchmarking the performance of building automation and control systems. In its core, *nestli* is a calibrated EnergyPlus model of the UMAR living lab. see: https://www.empa.ch/web/nest/urban-mining
+*nestli* is the virtual sister of the NEST demonstrator at Empa. It is a co-simulation environment for benchmarking the performance of building automation and control systems. In its core, *nestli* is a calibrated EnergyPlus model of the UMAR living lab. see: https://www.empa.ch/web/nest/urban-mining
 
 ![Picture1](https://user-images.githubusercontent.com/27851066/169803496-275ed8fc-7d1b-42e6-a0a7-f27f7dc456c5.png)
 
